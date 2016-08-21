@@ -21,7 +21,7 @@
    version="1.1"><metadata
      id="metadata3848"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs3846" /><sodipodi:namedview
      inkscape:window-height="1031"
      inkscape:window-width="1545"
@@ -34,9 +34,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="0.310814"
-     inkscape:cx="1365.91"
-     inkscape:cy="814.768"
+     inkscape:zoom="0.3"
+     inkscape:cx="1400.0"
+     inkscape:cy="700.0"
      inkscape:window-x="45"
      inkscape:window-y="0"
      inkscape:current-layer="layer13"
@@ -3129,4 +3129,8 @@
              id="polygon7017" /></g></g></g></g><g
      inkscape:groupmode="layer"
      id="layer13"
-     inkscape:label="Your Design" /></svg>
+     inkscape:label="Your Design"><path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.028346"
+       d="m 15.0,15.0 2238.0,0 0,1088.0 -2238.0,0 z"
+       id="path5097"
+       inkscape:connector-curvature="0" /></g></svg>
